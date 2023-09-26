@@ -1,0 +1,2 @@
+# python_practice_scraping
+pythonでスクレイピングサイトを作りたい
